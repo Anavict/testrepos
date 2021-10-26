@@ -1,2 +1,2 @@
 # testrepos
-beginner trining
+beginner training
